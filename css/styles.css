@@ -125,7 +125,5 @@ p {
   padding: 3% 2%;
 }
 
-@media (max-width: 1028px)
-
-/* font-family: 'Montserrat', sans-serif;
-font-family: 'Ubuntu', sans-serif; */
+/* @media (max-width: 1028px); /* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Ubuntu', sans-serif; */
